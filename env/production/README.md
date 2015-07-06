@@ -2,7 +2,7 @@ Standalone Execution Environment
 =============================================
 This location holds installation files and third party plugins of Standalone Execution Environment.
 
-Version: 1.1.0-SNAPSHOT
+Version: 1.1.0
 
 Provider:  [ Mango Solutions ](http://www.mango-solutions.com "data analysis that delivers")
 
