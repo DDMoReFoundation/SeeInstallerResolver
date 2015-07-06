@@ -12,8 +12,6 @@ Guide
 
 To install:
 
-* download see-installer\see-installer*.zip binary appropriate to your architecture.
-* extract see-installer*.zip
+* download see-installer*.zip binary appropriate to your architecture from: http://sourceforge.net/projects/ddmore/files/install/SEE/Demonstrator-1.1.0/see-installer
+* extract the see-installer*.zip
 * follow instructions in README file located in the extracted archive
-
-
